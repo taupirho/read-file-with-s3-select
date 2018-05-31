@@ -1,4 +1,4 @@
-# read-big-file-s3-select
+# read-file-with-s3-select
 How to read a file on S3 using standard SQL
 
 Recently Amazon realeased their S3 Select product on General Availabilty. This is an exciting new tool for data engineers to use so
