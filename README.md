@@ -12,5 +12,5 @@ At the time of writing you can only read delimited text files like CSV and JSON 
 compressed GZIP format
 
 The file I'm querying is the same one I've used in the rest of my series on reading big data files that you can find in my 
-other repositories. This is a 21 Gbyte pipe separated text file containing approx 335 million records. I used python to call the 
+other repositories. This is a 21 Gbyte pipe separated text file containing approx 366 million records. I used python to call the 
 S3 Select API and tested it using AWS Lambda. 
